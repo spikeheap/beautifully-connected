@@ -15,8 +15,22 @@
         "signal": {
           "EE": "Strong 4G"
         },
-        "parking": "Park on the A57, East of the bridge",
-        "notes": "Signal diminishes quickly as you head up the valley away from the A57, but there's a good swimming spot at the upper reservoir"
+        "parking": "Park on the A57, East of the bridge"
+      }
+    },{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5958000, 53.365600
+        ]
+      },
+      "properties": {
+        "name": "Redmires Reservoir",
+        "signal": {
+          "EE": "Strong 4G"
+        },
+        "parking": "Park on the verge of Soughley Lane"
       }
     }
   ]
