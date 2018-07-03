@@ -1,0 +1,23 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7140000,
+          53.376000
+        ]
+      },
+      "properties": {
+        "name": "Ladybower Reservoir",
+        "signal": {
+          "EE": "Strong 4G"
+        },
+        "parking": "Park on the A57, East of the bridge",
+        "notes": "Signal diminishes quickly as you head up the valley away from the A57, but there's a good swimming spot at the upper reservoir"
+      }
+    }
+  ]
+}
