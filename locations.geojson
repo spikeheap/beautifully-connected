@@ -12,6 +12,7 @@
       },
       "properties": {
         "name": "Ladybower Reservoir",
+        "type": "Grass",
         "signal": {
           "EE": "Strong 4G"
         },
@@ -27,10 +28,27 @@
       },
       "properties": {
         "name": "Redmires Reservoir",
+        "type": "Grass",
         "signal": {
           "EE": "Strong 4G"
         },
         "parking": "Park on the verge of Soughley Lane"
+      }
+    },{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.598054, 53.428615
+        ]
+      },
+      "properties": {
+        "name": "Old Horns Inn",
+        "type": "Pub",
+        "url": "http://theoldhorns.co.uk",
+        "signal": "unknown",
+        "wifi": "80Mbps+",
+        "notes": "Has some epic views plus the benefit of food and drink. Thanks to Dave Cates"
       }
     }
   ]
