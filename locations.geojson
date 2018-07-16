@@ -50,6 +50,23 @@
         "wifi": "80Mbps+",
         "notes": "Has some epic views plus the benefit of food and drink. Thanks to Dave Cates"
       }
+    },{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.993983, 53.156753
+        ]
+      },
+      "properties": {
+        "name": "The Roaches Spring Boulders",
+        "type": "Grass",
+        "signal": {
+          "EE": "Strong 4G"
+        },
+        "parking": "Park at The Roaches UKC Parking (Google Maps) on Roach Road"
+        "notes": "Great views and the opportunity for some bouldering if that grabs you. Can be boggy."
+      }
     }
   ]
 }
