@@ -46,9 +46,9 @@
         "name": "Old Horns Inn",
         "type": "Pub",
         "url": "http://theoldhorns.co.uk",
-        "signal": "unknown",
-        "wifi": "80Mbps+",
-        "notes": "Has some epic views plus the benefit of food and drink. Thanks to Dave Cates"
+        "signal": "4G: 2 bars",
+        "wifi": "80Mbps+ inside",
+        "notes": "Has some epic views plus the benefit of food and drink. Strong WiFi (~20Mbps) on veranda, but none in the garden. Thanks to Dave Cates"
       }
     },{
       "type": "Feature",
